@@ -21,5 +21,5 @@ AEDs (Automated External Defibrillators) play a critical role in saving lives du
 * Analysis: Visualizations created with Python.
 
 ## Deliverables
-* A Tableau Storyboard
+* [A Tableau Storyboard](https://public.tableau.com/app/profile/yiru.si/viz/HeartDiseaseintheU_S__17074796831290/Story1)
 * A project in portfolio
